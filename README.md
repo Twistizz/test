@@ -1,3 +1,3 @@
 # test
 mon premier git
-I love : sport : and music boom boom dans les oreilles
+I love :coffee:  :pizza: boom boom dans les oreilles
